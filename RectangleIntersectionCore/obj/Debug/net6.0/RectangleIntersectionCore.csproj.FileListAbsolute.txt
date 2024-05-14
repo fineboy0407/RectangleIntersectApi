@@ -1,0 +1,12 @@
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\bin\Debug\net6.0\RectangleIntersectionCore.deps.json
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\bin\Debug\net6.0\RectangleIntersectionCore.dll
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\bin\Debug\net6.0\RectangleIntersectionCore.pdb
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\RectangleIntersectionCore.csproj.AssemblyReference.cache
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\RectangleIntersectionCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\RectangleIntersectionCore.AssemblyInfoInputs.cache
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\RectangleIntersectionCore.AssemblyInfo.cs
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\RectangleIntersectionCore.csproj.CoreCompileInputs.cache
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\RectangleIntersectionCore.dll
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\refint\RectangleIntersectionCore.dll
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\RectangleIntersectionCore.pdb
+E:\Workspace\Test Project\RectangleIntersectionSolution\RectangleIntersectionCore\obj\Debug\net6.0\ref\RectangleIntersectionCore.dll
