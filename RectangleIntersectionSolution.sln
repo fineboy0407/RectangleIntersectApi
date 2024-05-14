@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleIntersectionWebApi", "RectangleIntersectionWebApi\RectangleIntersectionWebApi.csproj", "{4D5BC224-4EBD-45BB-AE2C-EA32F03F6B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleIntersectionCore", "RectangleIntersectionCore\RectangleIntersectionCore.csproj", "{64D8E21C-9DDB-4890-A4CA-071111A78502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleIntersectionWebApi.Tests", "RectangleIntersectionWebApi.Tests\RectangleIntersectionWebApi.Tests.csproj", "{AD48B1C0-1956-41E6-A435-70691794A8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D5BC224-4EBD-45BB-AE2C-EA32F03F6B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5BC224-4EBD-45BB-AE2C-EA32F03F6B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5BC224-4EBD-45BB-AE2C-EA32F03F6B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5BC224-4EBD-45BB-AE2C-EA32F03F6B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D8E21C-9DDB-4890-A4CA-071111A78502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D8E21C-9DDB-4890-A4CA-071111A78502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D8E21C-9DDB-4890-A4CA-071111A78502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D8E21C-9DDB-4890-A4CA-071111A78502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD48B1C0-1956-41E6-A435-70691794A8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD48B1C0-1956-41E6-A435-70691794A8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD48B1C0-1956-41E6-A435-70691794A8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD48B1C0-1956-41E6-A435-70691794A8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
